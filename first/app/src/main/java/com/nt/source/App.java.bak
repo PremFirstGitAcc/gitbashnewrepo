@@ -9,6 +9,11 @@ public class App {
     }
 
 public int addition(){
+<<<<<<< HEAD
+	System.out.println("hi premji");
+=======
+	System.out.println("hi");
+>>>>>>> 563c4ff38b6fccc3d7b65f629bf9a9ad9254f29b
 	return 2;
 }
     public static void main(String[] args) {
