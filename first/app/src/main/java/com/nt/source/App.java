@@ -9,6 +9,7 @@ public class App {
     }
 
 public int addition(){
+	System.out.println("hi premji");
 	return 2;
 }
     public static void main(String[] args) {
